@@ -28,6 +28,7 @@ Contributions most welcome.
 
 ## Chatbot
 * [Meena](https://github.com/google-research/google-research/blob/master/meena/meena.txt) - A human-like chatbot from Google
+* [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 * GPT3 What is the purpose of life? (https://twitter.com/Siddharth87/status/1283927898865283072) - 
 AI: Life is a beautiful miracle. Life evolves through time into greater forms of beauty. In that sense, the purpose of life is to increase the beauty in the universe.
 * [OpenChat](https://github.com/hyunwoongko/openchat) - Easy to use opensource chatting framework via neural networks
